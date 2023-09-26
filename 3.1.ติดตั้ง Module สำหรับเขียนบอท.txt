@@ -1,0 +1,61 @@
+บทที่ 1 : ติดตั้ง Module สำหรับเขียนบอท
+เปิด CMD
+# === Module For Python 3.11 ขึ้นไป
+# === สำหรับ Windows 10 และ 11 == #
+
+#= Selenium
+# URL : https://pypi.org/project/selenium
+
+#= undetected-chromedriver
+# URL : https://pypi.org/project/undetected-chromedriver/
+
+#= Pywin32
+# URL : https://pypi.org/project/pywinauto
+
+#= Psutil
+# URL : https://pypi.org/project/psutil
+
+#= Pyperclip
+# URL : https://pypi.org/project/pyperclip
+
+#= Pillow
+# URL : https://pypi.org/project/Pillow
+
+#= Auto-py-to-exe
+# URL : https://pypi.org/project/auto-py-to-exe
+
+#= Ipynb-py-convert
+# URL : https://pypi.org/project/ipynb-py-convert
+
+#= cryptography
+# URL : https://pypi.org/project/cryptography/
+
+#= pandas
+# URL : https://pypi.org/project/pandas/
+
+#= openpyxl 
+# URL : https://pypi.org/project/openpyxl/
+
+
+# ======================== #
+# ======================== #
+# ======================== #
+
+# === Module For Python 3.11 ขึ้นไป
+# === สำหรับ MacOS === #
+# === พิมคำสั่งติดตั้งในโปรแกรม terminal 
+
+#= Selenium
+# คำสั่ง : pip3 install selenium
+
+#= Chromedrive-autoinstaller
+# คำสั่ง : pip3 install chromedriver-autoinstaller
+
+#= Pyperclip
+# คำสั่ง : pip3 install pyperclip
+
+#= Pillow
+# คำสั่ง : pip3 install Pillow
+
+#= Cryptography
+# คำสั่ง : pip3 install cryptography
